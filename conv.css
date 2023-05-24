@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+   padding-bottom: 0%;
+    
+}
+h1{
+    text-align: center;
+    margin: 80px;
+    color: rgb(49, 107, 255);
+}
+#container{
+    text-align: center;
+    background-color:rgb(162, 215, 77);
+    padding: 10px ;
+    margin: 200px;
+    border-radius: 10px;
+    border-color: black;
+}
+.input-folder{
+    display: inline-block;
+}
+.input-style{
+    padding: 5px 10px;
+    margin: 15px;
+    font-weight: 600;
+}
+label{
+    font-weight: 900;
+    font-size: 35px;
+    color: rgb(21, 21, 20);
+}
